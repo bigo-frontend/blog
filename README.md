@@ -1,5 +1,4 @@
-# blog
-技术博客
+# bigo前端技术博客
 
 #### 1. [【bigo】使用原生js通过缓动函数实现抽奖转盘动画](https://github.com/bigo-frontend/blog/issues/26)
 #### 2. [【bigo】猫头鹰图表库开发总结](https://github.com/bigo-frontend/blog/issues/25)
