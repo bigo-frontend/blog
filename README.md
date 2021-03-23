@@ -4,6 +4,8 @@
 
 广纳人才，欢迎投递简历至bigo-frontend@bigo.sg
 
+## 🔗 Links
+
 #### 26. [【bigo】详解矩阵算法在 电商sku组件中的应用](https://github.com/bigo-frontend/blog/issues/29)
 #### 25. [【bigo】使用原生js通过缓动函数实现抽奖转盘动画](https://github.com/bigo-frontend/blog/issues/26)
 #### 24. [【bigo】猫头鹰图表库开发总结](https://github.com/bigo-frontend/blog/issues/25)
