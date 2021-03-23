@@ -25,6 +25,7 @@
 #### 23. [【bigo】nginx反向代理实现线上调试](https://github.com/bigo-frontend/blog/issues/3)
 #### 24. [【bigo】gif首帧图片截取](https://github.com/bigo-frontend/blog/issues/2)
 #### 25. [【bigo】关于bigo前端团队](https://github.com/bigo-frontend/blog/issues/1)
+#### 26. [【bigo】详解矩阵算法在 电商sku组件中的应用](https://github.com/bigo-frontend/blog/issues/29)
 
 欢迎关注Issues文章
 
