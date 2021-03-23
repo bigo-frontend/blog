@@ -1,5 +1,9 @@
 # bigo前端技术博客
 
+欢迎关注Issues文章
+
+广纳人才，欢迎投递简历至bigo-frontend@bigo.sg
+
 #### 26. [【bigo】详解矩阵算法在 电商sku组件中的应用](https://github.com/bigo-frontend/blog/issues/29)
 #### 25. [【bigo】使用原生js通过缓动函数实现抽奖转盘动画](https://github.com/bigo-frontend/blog/issues/26)
 #### 24. [【bigo】猫头鹰图表库开发总结](https://github.com/bigo-frontend/blog/issues/25)
@@ -26,8 +30,3 @@
 #### 3. [【bigo】nginx反向代理实现线上调试](https://github.com/bigo-frontend/blog/issues/3)
 #### 2. [【bigo】gif首帧图片截取](https://github.com/bigo-frontend/blog/issues/2)
 #### 1. [【bigo】关于bigo前端团队](https://github.com/bigo-frontend/blog/issues/1)
-
-
-欢迎关注Issues文章
-
-广纳人才，欢迎投递简历至bigo-frontend@bigo.sg
