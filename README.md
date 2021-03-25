@@ -6,7 +6,10 @@
 
 ## 🔗 Links
 
-#### 26. [【bigo】详解矩阵算法在 电商sku组件中的应用](https://github.com/bigo-frontend/blog/issues/29)
+#### 28. [【bigo】详解矩阵算法在 电商sku组件中的应用](https://github.com/bigo-frontend/blog/issues/29)
+
+#### 27. [【bigo】如何对页面进行简单的性能检测与分析](https://github.com/bigo-frontend/blog/issues/28)
+#### 26. [【bigo】基于 AlloyCrop 的图片手势缩放、裁剪业务实践](https://github.com/bigo-frontend/blog/issues/27)
 #### 25. [【bigo】使用原生js通过缓动函数实现抽奖转盘动画](https://github.com/bigo-frontend/blog/issues/26)
 #### 24. [【bigo】猫头鹰图表库开发总结](https://github.com/bigo-frontend/blog/issues/25)
 #### 23. [【译】打地鼠：纯CSS版本](https://github.com/bigo-frontend/blog/issues/23)
